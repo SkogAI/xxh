@@ -76,7 +76,7 @@ To run AppImage on Alpine Linux [install](https://github.com/sgerrand/alpine-pkg
 
 ## Shells
 
-Currently supported OS for the target host is Linux on x86_64.
+Currently supported OS for the target host is Linux on x86_64. [ARM support](https://github.com/xxh/xxh/issues/188) from the community.
 
 | xxh-shell                                                             | status     | [xxh-plugins](https://github.com/xxh/xxh/wiki#plugins) | [seamless](https://github.com/xxh/xxh/wiki#seamless-mode) | demo |
 |-----------------------------------------------------------------------|------------|-------------|---------|------|
